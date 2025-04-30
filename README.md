@@ -20,18 +20,6 @@ A bilingual voice assistant built with [Whisper](https://github.com/openai/whisp
 
 ---
 
-## 📁 Project Structure
-
-```bash
-.
-├── main.py                  # Main Python code with Whisper and TTS logic
-├── temp.wav                # Temporary audio files (runtime-generated)
-├── response.wav
-├── text_response.wav
-├── requirements.txt        # Dependencies
-└── README.md               # This file
-```
-
 ---
 
 ## 🛠️ Installation & Setup
@@ -156,13 +144,3 @@ qa_dict = {
 - [Gradio](https://github.com/gradio-app/gradio)
 
 ---
-
-## 📄 License
-
-MIT License – use and modify freely for educational and research purposes.
-
-```
-
----
-
-Let me know if you'd like this README exported as a file or want help customizing the styling or adding screenshots.
